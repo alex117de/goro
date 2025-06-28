@@ -14,7 +14,7 @@
 ## Installation
 
 ```bash
-go get github.com/alex117/goro
+go get github.com/alex117de/goro
 ```
 
 ## Usage
