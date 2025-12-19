@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	"goro"
+	"github.com/alex117de/goro"
 )
 
 func main() {
